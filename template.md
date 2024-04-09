@@ -7,3 +7,8 @@
 # Screenshots
 
 ### Place any screenshots here.
+### You may add notes to the screenshots if you would like.
+
+# Extra Info
+
+### Place any extra world info here, such as info about builds, etc.
