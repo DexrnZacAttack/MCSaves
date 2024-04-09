@@ -11,4 +11,4 @@
 
 # Extra Info
 
-### Place any extra world info here, such as info about builds, etc.
+### Place any extra info here, such as info about builds, etc.
