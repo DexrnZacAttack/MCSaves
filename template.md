@@ -7,6 +7,7 @@
 # Screenshots
 
 ### Place any screenshots here.
+### You must have a minimum of 2 screenshots, one for the world on the select worlds screen, and one for the inside of the world (can be anywhere inside, maybe even a build)
 ### You may add notes to the screenshots if you would like.
 
 # Extra Info
