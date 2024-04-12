@@ -2,7 +2,7 @@
 
 ### GitHub Username: [bor-real](https://github.com/bor-real)
 ### Platform: Minecraft Classic (remake)
-### Version: 0.0.23a_91
+### Version: 0.0.23a_01 (classic.minecraft.net)
 
 # Screenshots
 
