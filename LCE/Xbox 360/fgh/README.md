@@ -1,7 +1,7 @@
 # fgh
 
 ### GitHub Username: [bor-real](https://github.com/bor-real)
-### Platform: Minecraft Xbox 360 Edition
+### Platform: Minecraft Xbox 360 Edition (Xenia-canary)
 ### Version: TU70
 
 ## If this save was made with an emulator, please state which emulator, and the version. If not, put "None"
@@ -11,7 +11,7 @@
 
 ![World Selection Screen](Screenshots/Image1.png)
 ![The Bridge](Screenshots/Image2.png)
-![Mining Manor ahead of OPMB Bridge](Screenshots/Image3.png)
+![Mining Manor behind OPMB Bridge](Screenshots/Image3.png)
 ![FGH City](Screenshots/Image4.png)
 
 # Extra Info
