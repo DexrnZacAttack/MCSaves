@@ -4,8 +4,8 @@
 ### Platform: Minecraft Xbox 360 Edition
 ### Version: TU75
 
-## If this save was made with an emulator, please state which emulator, and the version. If not, put "None"
-### Emulator: None
+## If this save was made with an emulator, please state which emulator, and the version. If not, **remove this line!!!**
+### Emulator: Xenia-canary (0fcdc12cb)
 
 # Screenshots
 
