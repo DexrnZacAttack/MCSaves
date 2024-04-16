@@ -4,6 +4,8 @@
 ### Platform: Minecraft Xbox 360 Edition
 ### Version: TU75
 
+### Is this done on real hardware: Yes
+
 # Screenshots
 
 ### Place any screenshots here.
