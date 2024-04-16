@@ -1,7 +1,7 @@
-# New World
+# fgh
 
 ### GitHub Username: [bor-real](https://github.com/bor-real)
-### Platform: Minecraft Xbox 360 Edition
+### Platform: Minecraft Xbox 360 Edition (Emulated)
 ### Version: TU70
 
 # Screenshots
