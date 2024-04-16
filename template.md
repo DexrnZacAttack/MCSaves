@@ -4,7 +4,8 @@
 ### Platform: Minecraft Xbox 360 Edition
 ### Version: TU75
 
-### Is this done on real hardware: Yes
+## If this save was made with an emulator, please state which emulator, and the version. If not, put "None"
+### Emulator: None
 
 # Screenshots
 
