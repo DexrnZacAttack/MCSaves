@@ -3,8 +3,7 @@
 - GitHub Username: [DexrnZacAttack](https://github.com/DexrnZacAttack)
 - Platform: Minecraft Xbox 360 Edition
 - Version: TU75
-#### If this save was made with an emulator, please state which emulator, and the version. If not, put "None"
-- Emulator: None
+- Emulator (specify version): None
 
 ## Screenshots
 
